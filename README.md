@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya-Kumar-Sahu
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python, HTML, CSS, Bootstrap,Javascipt, ReactJs, NodeJs
+- 🌱 I’m currently learning Python, HTML, CSS, Bootstrap, Javascipt, React.js, Node.js
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me Email: adityasahu1124@outlook.com
 
