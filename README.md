@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently studying in **Guru Ghasidas Vishwavidyalaya, Bilaspur**
 
-- 🌱 I’m currently learning **Full Stack Development which includes HTML, CSS, Bootstrap, Javascript, React.js, Node.js**
+- 🌱 I’m currently learning **Full Stack Development which includes HTML, CSS, Bootstrap, Javascript, React.js, Node.js, etc.**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **Front-End Projects**
 
-- 🤝 I’m looking for help with **Javascript**
+- 🤝 I’m looking for help with **Node.js**
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, C, HTML, CSS**
 
 - 📫 How to reach me **adityasahu1124@outlook.com**
 
